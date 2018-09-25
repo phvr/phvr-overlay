@@ -1,0 +1,12 @@
+<repositories encoding="unicode" version="1.1">
+  <repo priority="50" quality="experimental">
+    <name>phvr-overlay</name>
+    <description>phvr's Gentoo overlay</description>
+    <homepage>https://github.com/phvr/phvr-overlay</homepage>
+    <owner>
+      <email>phvr@kpnmail.nl</email>
+      <name>phvr</name>
+    </owner>
+    <source type="git">https://github.com/phvr/phvr-overlay.git</source>
+  </repo>
+</repositories>
