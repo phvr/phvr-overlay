@@ -21,7 +21,7 @@ RDEPEND="${DEPEND}
 		net-dns/openresolv
 		net-firewall/iptables
 		net-misc/curl
-		virtual/wireguard[tools,module]"
+		net-vpn/wireguard-tools"
 BDEPEND=""
 
 src_install() {
